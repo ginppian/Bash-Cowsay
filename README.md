@@ -22,12 +22,27 @@ fortune | cowthink Some Text Here
 fortune | cowsay -f tux Some Text Here
 ```
 
-# Otros
- No solo tenemos una vaca tenemos otros "cows" como Tux (mascota de Linux), los cuales los podemos consultar en:
+## Otros
+ No sólo tenemos una vaca tenemos otros "cows" como Tux (mascota de Linux), los cuales los podemos consultar en:
 
 ```
-/usr/local/share/cows
+ls /usr/local/share/cows
 ```
 
+<p align="justify">
+  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/cows.png" width="320" height="568" />
+</p>
+
+## Ejemplos
+
+<p align="center">
+  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/examples.png" width="320" height="568" />
+</p>
+
+## Contacto
+
+<p align="center">
+  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/followme.png" width="320" height="568" />
+</p>
 
 
