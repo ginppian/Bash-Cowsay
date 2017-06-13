@@ -30,7 +30,7 @@ ls /usr/local/share/cows
 ```
 
 <p align="justify">
-  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/cows.png" width="1195" height="100" />
+  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/cows.png" width="1195" height="115" />
 </p>
 
 ## Ejemplos
