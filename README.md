@@ -36,13 +36,13 @@ ls /usr/local/share/cows
 ## Ejemplos
 
 <p align="center">
-  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/examples.png" width="482" height="1408" />
+  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/examples.png" width="241" height="704" />
 </p>
 
 ## Contacto
 
 <p align="center">
-  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/followme.png" width="361" height="412" />
+  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/followme.png" width="180" height="206" />
 </p>
 
 
