@@ -1,6 +1,10 @@
 Fortune - Cow Say for Mac
 ===========
 
+<p align="justify">
+  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/cowsay.png" width="226" height="158" />
+</p>
+
 ## ¿Qué es?
 
 <p align="justify">
