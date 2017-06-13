@@ -30,19 +30,19 @@ ls /usr/local/share/cows
 ```
 
 <p align="justify">
-  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/cows.png" width="320" height="568" />
+  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/cows.png" width="2390" height="292" />
 </p>
 
 ## Ejemplos
 
 <p align="center">
-  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/examples.png" width="320" height="568" />
+  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/examples.png" width="482" height="1408" />
 </p>
 
 ## Contacto
 
 <p align="center">
-  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/followme.png" width="320" height="568" />
+  <img src="https://github.com/ginppian/Bash-Cowsay/blob/master/followme.png" width="361" height="412" />
 </p>
 
 
