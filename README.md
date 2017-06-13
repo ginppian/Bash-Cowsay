@@ -13,3 +13,21 @@ En el 2007 fue marcado como el paquete Debian del día.
 ```
 brew install fortune cowsay
 ```
+
+## Uso
+
+```
+fortune | cowsay Some Text Here
+fortune | cowthink Some Text Here
+fortune | cowsay -f tux Some Text Here
+```
+
+# Otros
+ No solo tenemos una vaca tenemos otros "cows" como Tux (mascota de Linux), los cuales los podemos consultar en:
+
+```
+/usr/local/share/cows
+```
+
+
+
